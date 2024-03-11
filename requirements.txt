@@ -1,0 +1,16 @@
+asgiref
+crispy-bootstrap5
+Django
+django-crispy-forms
+django-email
+django-environ
+django-filter
+django-phonenumber-field
+djangorestframework
+Markdown
+phonenumbers
+pillow
+psycopg2
+pytz
+sqlparse
+tzdata
